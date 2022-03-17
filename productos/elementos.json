@@ -1,0 +1,62 @@
+[
+	{
+		"nombre": "Portátil HP 15-DW1056LA 15.6 Pulgadas Intel Core i3 8GB 256GB SSD",
+		"precio": 1629900,
+		"img": "../imgs/img1.jpg"
+	},
+	{
+		"nombre": "Portátil Gamer Lenovo 3 15.6 Pulgadas Intel Core i5 16GB 1TB 256GB",
+		"precio": 3999900,
+		"img": "../imgs/img2.jpg"
+	},
+	{
+		"nombre": "Portátil Lenovo 14 pulgadas AMD RYZEN R7 16GB 512GB",
+		"precio": 3399900,
+		"img": "../imgs/img3.jpg"
+	},
+	{
+		"nombre": "Portátil Asus VivoBook 15 15.6 Pulgadas AMD RYZEN R7 16GB 512GB",
+		"precio": 3299900,
+		"img": "../imgs/img4.jpg"
+	},
+	{
+		"nombre": "Portátil Asus VivoBook Pro 15.6 Pulgadas Intel Core i5 8GB 512GB",
+		"precio": 3999900,
+		"img": "../imgs/img5.jpg"
+	},
+	{
+		"nombre": "Portátil Lenovo 14 pulgadas Intel Core i5 8GB 256GB",
+		"precio": 2699900,
+		"img": "../imgs/img6.jpg"
+	},
+	{
+		"nombre": "Portátil Asus ZenBook 13.3 Pulgadas Intel Core i5 16GB 512GB",
+		"precio":  3999900 ,
+		"img": "../imgs/img7.jpg"
+	},
+	{
+		"nombre": "Portátil Asus VivoBook 14 14 Pulgadas Intel Core i3 8GB 256GB",
+		"precio":  1699900,
+		"img": "../imgs/img8.jpg"
+	},
+	{
+		"nombre": "Portátil HP Laptop 14 Pulgadas Intel Core i3 8GB 512GB",
+		"precio":  1849900,
+		"img": "../imgs/img9.jpg"
+	},
+	{
+		"nombre": "Portátil Hp 15-Eh0001la Amd Athlon 8gb 512gb Ssd",
+		"precio":   1669900,
+		"img": "../imgs/img10.jpg"
+	},
+	{
+		"nombre": "Portátil Huawei MateBook D14 Intel Ci5 Disco 512GB SSD 8GB RAM + Morral + Mouse",
+		"precio":   3199900,
+		"img": "../imgs/img11.jpg"
+	},
+	{
+		"nombre": "Portátil Asus 14 Pulgadas Intel Core i3 8GB 256GB",
+		"precio":   1799900,
+		"img": "../imgs/img12.jpg"
+	}
+]
